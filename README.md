@@ -1,6 +1,8 @@
-# Flutter Minimal Shopping App ui
+# Flutter Minimal Shopping App UI
 
 ![](assets/preview.jpg)
+
+## To Create such UI
 
 Watch the Video on Youtube - [Youtube Video](https://youtu.be/ePdzk2Is3hQ)
 
@@ -8,7 +10,7 @@ Also Don't Forget to Subscribe to My youtube Channel - [Youtube Channel](https:/
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project is a starting point for a Flutter Application.
 
 A few resources to get you started if this is your first Flutter project:
 
